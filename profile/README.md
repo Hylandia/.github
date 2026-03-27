@@ -12,3 +12,7 @@ Hylandia Studios is developing a minigames server for Hytale, bringing unique an
 - Subscribe to our YouTube: [@HylandiaOfficial](https://www.youtube.com/@HylandiaOfficial)
 - Follow us on TikTok: [@HylandiaOfficial](https://tiktok.com/@HylandiaOfficial)
 - Follow us on Reddit: [r/Hylandia](https://reddit.com/r/Hylandia)
+
+#
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71SJWZL)
