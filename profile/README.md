@@ -1,6 +1,6 @@
 <img width="616" height="404" alt="hylandia" src="https://github.com/user-attachments/assets/deedadad-f74d-455d-9520-fbdfad966622"/>
 
-# Hylandia Studios - Join [our Discord](https://discord.gg/hylandia) for updates!
+# Hylandia Studios - Join [our Discord](https://discord.gg/WbNukkgdYd) for updates!
 
 ### About Us
 Hylandia Studios is developing a minigames server for Hytale, bringing unique and engaging multiplayer experiences to the community.
